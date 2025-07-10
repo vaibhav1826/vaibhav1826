@@ -74,10 +74,12 @@ I’m a results-driven developer who enjoys solving real-world problems through 
     <td align="center" colspan="4"><b>Dev & Deployment</b></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
+   <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/InfinityFree-003399?style=for-the-badge&logo=freebsd&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></td>
   </tr>
 </table>
 
