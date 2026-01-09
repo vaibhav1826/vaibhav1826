@@ -22,8 +22,9 @@ I’m a results-driven developer who enjoys solving real-world problems through 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhav1826&theme=blue_navy&no-frame=true&margin-w=10&row=1&column=6&background=0B3D91"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav1826&theme=blue_navy&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
+
 
 ---
 
@@ -86,27 +87,9 @@ I’m a results-driven developer who enjoys solving real-world problems through 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav1826&show_icons=true&theme=blue_navy&hide_border=true&custom_title=GitHub+Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav1826&theme=blue_navy&hide_border=true" width="45%"/>
-</p>
-
----
-
-## 🗣️ Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav1826&layout=compact&theme=blue_navy&hide_border=true&langs_count=10"/>
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=vaibhav1826&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaibhav1826&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav1826&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
